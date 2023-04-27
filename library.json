@@ -23,8 +23,8 @@
       "platforms": "espressif8266"
     },
     {
-      "owner": "esphome",
       "name": "AsyncTCP-esphome",
+      "version": "https://github.com/libretiny-eu/AsyncTCP.git",
       "platforms": ["espressif32", "libretiny"]
     },
     {
